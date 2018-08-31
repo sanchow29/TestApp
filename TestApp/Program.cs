@@ -10,6 +10,9 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("welcome to git");
+            Console.ReadLine();
         }
     }
 }
